@@ -1,6 +1,6 @@
 namespace Quantum  
 {  
-    open Microsoft.Quantum.Primitive;  
+    open Microsoft.Quantum.Intrinsic;  
     
     operation Add (a : Int, b : Int): (Int)  
     {  
