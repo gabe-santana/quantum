@@ -4,5 +4,5 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
-
+  <PackageReference Include="Microsoft.Quantum.MachineLearning" Version="0.11.2006.403" />
 </Project>
